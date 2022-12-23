@@ -1,0 +1,1 @@
+mettre le fichier commit-msg dans ./git/hooks
